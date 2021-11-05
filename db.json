@@ -1,0 +1,48 @@
+{
+    "users": [
+    {
+        "frs": "Muhammad" ,
+        "sc": "Ardi" ,
+        "trd": "Setiawan" ,
+        "alamat": "JL.Bringin Raya" ,
+        "phone": "+62 821 353 282 77" ,
+        "email": "mhmmdard01@gmail.com" ,
+        "ringkasan": "SMA Bina Nusantara Semarang students who are participating in Bootcamp training",
+        "bahasa1": "Indonesia" ,
+        "bahasa2": "English" ,
+        "hob": "Gaming",
+        "hobi": "Listen Music",
+        "sh": "Project management",
+        "sh2": "Innovative",
+        "exno": "None - ",
+        "exto": "../../.. to ../../..",
+        "exli": "Didn't join any Project yet...",
+        "prog": "HTML, CSS, JavaScript.",
+        "smk": " Bina Nusantara Semarang"
+    }],
+    "bio": [
+    {
+        "frst": "Muhammad" ,
+        "scn": "Ardi" ,
+        "trdh": "Setiawan" ,
+        "nama": "Muhammad Ardi Setiawan",
+        "ultah": "07 APRIL 2006",
+        "addr": "JL.Bringin Raya" ,
+        "alam": "Semarang",
+        "mat": "Indonesia",
+        "web": "https://www.w3schools.com",
+        "ehmail": "mhmmdard01@gmail.com",
+        "sphone": "+62 821 353 282 77",
+        "sekul": "Bina Nusantara Semarang - 2021",
+        "smk": "SMK :",
+        "smp": "SMP :",
+        "sd": "SD :",
+        "smid": "2018 - 2021",
+        "sch": "2012 - 2018",
+        "un": "Jakarta, Indonesia",
+        "none": "None-",
+        "tw": "-",
+        "fb": "-"
+    }]
+}
+
